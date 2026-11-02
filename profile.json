@@ -1,0 +1,29 @@
+{
+  "username": "gtdd123",
+  "name": "gtdd123",
+  "latin": "",
+  "eyebrow": "AGENT ENGINEERING / OPEN SOURCE",
+  "tagline": "构建科研 Agent，也为开源工具补齐可靠性细节。",
+  "sub": "Python · TypeScript · Agent Runtime · MCP",
+  "theme": "t1",
+  "accent": "blue",
+  "mode": "auto",
+  "language": "zh",
+  "projects": [
+    {
+      "name": "BioEvidence",
+      "url": "https://github.com/gtdd123/bio-evidence",
+      "description": "面向医药科研的多端 Agent 工作区，聚焦文献检索、资料协作与可追溯引用。"
+    }
+  ],
+  "links": [
+    {
+      "name": "BioEvidence 静态交互演示",
+      "url": "https://gtdd123.github.io/bio-evidence/"
+    },
+    {
+      "name": "查看已合并的公开 PR",
+      "url": "https://github.com/search?q=author%3Agtdd123+is%3Apr+is%3Amerged+is%3Apublic+-user%3Agtdd123&type=pullrequests"
+    }
+  ]
+}
